@@ -8,4 +8,5 @@ public class git1 {
     String s="444";
 
     String e="eee";
+    int ff=234154;
 }
