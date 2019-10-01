@@ -5,4 +5,6 @@ public class git1 {
     String b="bbb";
     String c="ccc";
     String d="ddd";
+    
+    String e="eee";
 }
