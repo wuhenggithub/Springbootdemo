@@ -7,5 +7,5 @@ public class git1 {
     String d="ddd";
     String s="444";
 
-    String e=66666;
+    String e="eee";
 }
