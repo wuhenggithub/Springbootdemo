@@ -6,4 +6,6 @@ public class git1 {
     String c="ccc";
     String d="ddd";
     String s="444";
+
+    String e="eee";
 }
